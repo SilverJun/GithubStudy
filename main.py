@@ -1,7 +1,8 @@
 import greet
 
 greet.hello("CG Lab")
-greet.clhello("Eunjun Jang")
+greet.hello("Eunjun Jang")
+greet.hello("Kyung Min Na")
 # add here. hello("your name")
 
 print("Github Study!")

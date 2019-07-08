@@ -1,2 +1,2 @@
 def hello(str):
-    print("not implemented!")
+    print("hello~ "+ str)
